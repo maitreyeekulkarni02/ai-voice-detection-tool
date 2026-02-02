@@ -1,0 +1,4 @@
+Random Forest Accuracy: 0.92
+Precision: 0.90
+Recall: 0.93
+F1-Score: 0.915
